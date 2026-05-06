@@ -3,3 +3,5 @@ Sunrise
 Galaxy
 Spring
 Autumn
+Rainy
+Sunny
